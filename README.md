@@ -1,2 +1,2 @@
-# Ampify-Music-Player
-Project of creating java application of playing audio and video songs with certain features.
+# Food Items Management System
+Project of creating java application for facilitating users to select food items of their choice add and remove from their inventory.
