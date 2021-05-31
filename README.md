@@ -21,3 +21,21 @@
  𝑺𝒆𝒓𝒗𝒆𝒓- Xampp Control Panel
  
  𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆- MySQL, phpMyAdmin
+
+ Preview Images of the Application-
+ 
+𝐋𝐨𝐠𝐢𝐧 𝐏𝐚𝐠𝐞-
+ 
+![img1](https://user-images.githubusercontent.com/68140375/120189485-0baeea80-c235-11eb-961b-c65a011d4f85.png)
+
+𝐑𝐞𝐠𝐢𝐬𝐭𝐞𝐫 𝐏𝐚𝐠𝐞-
+
+![img2](https://user-images.githubusercontent.com/68140375/120189494-0d78ae00-c235-11eb-9848-7b638db3be53.png)
+
+𝐔𝐬𝐞𝐫 𝐈𝐧𝐯𝐞𝐧𝐭𝐨𝐫𝐲 𝐏𝐚𝐠𝐞- 
+
+![img3](https://user-images.githubusercontent.com/68140375/120189496-0e114480-c235-11eb-9e6c-533c4cd959ea.png)
+
+𝐀𝐝𝐦𝐢𝐧 𝐈𝐧𝐯𝐞𝐧𝐭𝐨𝐫𝐲 𝐏𝐚𝐠𝐞-
+
+![img4](https://user-images.githubusercontent.com/68140375/120189497-0ea9db00-c235-11eb-8a70-39bc480ecb9c.png)
