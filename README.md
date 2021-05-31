@@ -1,8 +1,23 @@
-Food Inventory System (GUI based Application)
+𝑭𝒐𝒐𝒅 𝑰𝒏𝒗𝒆𝒏𝒕𝒐𝒓𝒚 𝑺𝒚𝒔𝒕𝒆𝒎 (𝑮𝑼𝑰 𝒃𝒂𝒔𝒆𝒅 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏)
  
-Applications used :-  Netbeans IDE, MySql , Database Management.
- Project of creating java application for facilitating users to select food items of their choice add and remove from their inventory. Register and Login page to move to their personal inventory and add or remove food items having features of search by name, price etc.,
+ This project is a window based application of selecting food items based on their choice.
  
- ![img](https://user-images.githubusercontent.com/68140375/111059287-73695b00-84ba-11eb-8a17-0a1e1d4024af.png)
-![img1](https://user-images.githubusercontent.com/68140375/111059365-0bffdb00-84bb-11eb-86ad-ab29f778776f.png)
-![img3](https://user-images.githubusercontent.com/68140375/111059476-e0c9bb80-84bb-11eb-9972-837bd09d7a12.png)
+ This has a login and register feature for both admin and the users.
+ 
+ User can create his own food inventory and have CRUD facilities (Create, Read, Update, Insert and Delete).
+ 
+ Search and sort the food items according to its price and name, save the changes.
+
+ Tech Stack used are-
+ 
+ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔- JAVA
+ 
+ 𝑻𝒐𝒐𝒍𝒔- Netbeans IDE 8.2
+ 
+ 𝑴𝒆𝒕𝒉𝒐𝒅𝒐𝒍𝒐𝒈𝒚- Object-OrientedProgramming(OOP), Exception Handling, Event Handling, Java Foundation Classes(JFC)
+ 
+ 𝑷𝒂𝒄𝒌𝒂𝒈𝒆𝒔- Java AWT(java.awt), Java Swing(javax.swing)
+ 
+ 𝑺𝒆𝒓𝒗𝒆𝒓- Xampp Control Panel
+ 
+ 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆- MySQL, phpMyAdmin
